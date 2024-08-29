@@ -1,4 +1,4 @@
-# [CampaignsCrmMarketingOnlineDigitalFormsV4](https://bitbucket.globaldevtools.bbva.com/bitbucket/projects/GL_F30V_APP-ID-938255_DSG/repos/campaignscrmmarketingonlinedigitalformsv4/browse) - [Descripción breve del recurso]
+# [CampaignsCrmMarketingOnlineDigitalFormsV4](https://bitbucket.globaldevtools.bbva.com/bitbucket/projects/GL_F30V_APP-ID-938255_DSG/repos/campaignscrmmarketingonlinedigitalformsv4/browse) - [Campaña digital de formularios relacionados a marketing]
 Servicios dentro del API < nombre API >  dentro del subrecurso < nombre subrecurso >:
 ## Servicios.
 
