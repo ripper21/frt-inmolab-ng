@@ -1,11 +1,11 @@
-# [Nombre de repositorio](Enlace al repositorio) - [Descripción breve del recurso]
+# [CampaignsCrmMarketingOnlineDigitalFormsV4](https://bitbucket.globaldevtools.bbva.com/bitbucket/projects/GL_F30V_APP-ID-938255_DSG/repos/campaignscrmmarketingonlinedigitalformsv4/browse) - [Descripción breve del recurso]
 Servicios dentro del API < nombre API >  dentro del subrecurso < nombre subrecurso >:
 ## Servicios.
 
 # **LogicalId del Servicio 1_ SMC**
-> EndPoint (METODO /api/vx/recurso/{recurso-id}/subrecurso/{subrecurso-id}
+> EndPoint (METODO /crm-marketing/online-digital-forms GET /crm-marketing/online-digital-forms PATCH /crm-marketing/online-digital-forms/{online-digital-form-id}
 >
-><span style="color:yellow;font-size:10pt"> Por ejemplo: GET /accounts/v2/accounts/{account-id}/transactions/{transaction-id}</span>
+><span style="color:yellow;font-size:10pt"> Por ejemplo: POST /crm-marketing/online-digital-forms GET /crm-marketing/online-digital-forms PATCH /crm-marketing/online-digital-forms/{online-digital-form-id}</span>
 
 **Descripcion**: Breve descripción del servicio.
 Facilitar el servicio al que sustituye (Si aplica.)
